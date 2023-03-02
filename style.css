@@ -1,0 +1,23 @@
+.heading {
+    width: 50%;
+    margin: 30px auto;
+    text-align: center;
+    color : #6B8E23;
+    background: #fff8dc;
+    border : 2px solid #6B8E23;
+    border-radius: 20px;
+}
+.task_input {
+    width: 73%;
+    height: 15px;
+    padding: 10px;
+    border: 2px solid #6B8E23;
+}
+.add_btn {
+    height: 39px;
+    background: #fff8dc;
+    color: #6B8E23;
+    border: 2px solid #6B8E23;
+    border-radius: 5px;
+    padding: 5px 20 px;
+}
