@@ -1,4 +1,4 @@
-<?php include 'config/database.php';
+<?php include './database.php';
 if (isset($_POST['additem'])) {
 
   $task = $_POST['task'];
